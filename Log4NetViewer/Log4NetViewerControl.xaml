@@ -11,14 +11,14 @@
         <DataTemplate DataType="{x:Type local:LoggingEventViewModel}">
             <Border  x:Name="Border1"  BorderThickness="2" CornerRadius="5" Padding="5">
                 <DockPanel>
-                    <TextBlock Text="{Binding Path=LoggingEvent.Exception}" 
+                    <TextBlock x:Name="ExceptionTextBlock" Text="{Binding Path=LoggingEvent.Exception}" 
                                TextWrapping="Wrap"
                                DockPanel.Dock="Bottom" 
                                  Visibility="{Binding Path=DetailsVisibility}" />
                     <ToggleButton Content="详细" DockPanel.Dock="Right" 
                                   Visibility="{Binding Path=DetailsButtonVisibility}" 
                                   IsChecked="{Binding Path=DisplayDetails}"/>
-                    <TextBlock x:Name="TextBlock1">
+                    <TextBlock x:Name="TextBlock1" TextWrapping="Wrap">
                         <TextBlock.Inlines>
                             <Run Text="{Binding Path=LoggingEvent.Timestamp, StringFormat={}{0} - }" />
                             <Run Text="{Binding Path=LoggingEvent.Location}" TextDecorations="Underline" />
@@ -34,7 +34,7 @@
                     </DataTrigger.Value>
                     <DataTrigger.Setters>
                         <Setter Property="BorderBrush" Value="red" TargetName="Border1"></Setter>
-                        <Setter Property="Foreground" Value="red" TargetName="TextBlock1"></Setter>
+                        <Setter Property="Foreground" Value="red" TargetName="ExceptionTextBlock"></Setter>
                     </DataTrigger.Setters>
                 </DataTrigger>
 

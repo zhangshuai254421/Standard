@@ -19,7 +19,7 @@ namespace Log4NetViewerUnit
         }
         private void LogFatal_Click(object sender, RoutedEventArgs e)
         {
-            log.Fatal("Log Fatal !!!", new Exception("Fatal-----------------------"));
+            log.Fatal("Log Fatal !!! -------------------------------------------------------------------------------666666666666666666666666666666643222222222222222222222222222222222222222", new Exception("Fatal-----------------------------------------------21333333333333333444444444444444444696767532788888888888888888888888888888888888888444444444444444444444444444444444444444444444444444444444444444444444444444"));
         }
 
         private void LogError_Click(object sender, RoutedEventArgs e)
