@@ -32,6 +32,7 @@ namespace Log4NetViewer
             set { SetValue(ItemsSourceProperty, value); }
         }
 
+
         public static readonly DependencyProperty ItemsSourceProperty =
             DependencyProperty.Register("ItemsSource",
                 typeof(IEnumerable),

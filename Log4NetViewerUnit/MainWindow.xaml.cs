@@ -2,6 +2,7 @@
 using Log4NetViewer;
 using System;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows;
 
 namespace Log4NetViewerUnit
@@ -19,6 +20,11 @@ namespace Log4NetViewerUnit
         }
         private void LogFatal_Click(object sender, RoutedEventArgs e)
         {
+
+            Task.Run(() =>
+            {
+                log.Error("Log Error !!!", new Exception("Error"));
+            });
             log.Fatal("Log Fatal !!! -------------------------------------------------------------------------------666666666666666666666666666666643222222222222222222222222222222222222222", new Exception("Fatal-----------------------------------------------21333333333333333444444444444444444696767532788888888888888888888888888888888888888444444444444444444444444444444444444444444444444444444444444444444444444444"));
         }
 
