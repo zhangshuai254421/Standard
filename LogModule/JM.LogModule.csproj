@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    
+	 <TargetFramework>netstandard2.0</TargetFramework>
+	
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>对Log4Net的功能封装</Title>
+    <Version>1.1.4</Version>
+    <Description>取消异常处理</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.15" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LogModule</id>
+    <version>1.0.0</version>
+    <title>对Log4Net的功能封装</title>
+    <authors>LogModule</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="log4net" version="2.0.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\04_开发项目\07_标准Dll\Standard\LogModule\bin\Debug\netstandard2.0\LogModule.dll" target="lib\netstandard2.0\LogModule.dll" />
+  </files>
+</package>

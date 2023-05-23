@@ -1,0 +1,10 @@
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\bin\Debug\netstandard2.0\LightSourceProgram.deps.json
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\bin\Debug\netstandard2.0\LightSourceProgram.dll
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\bin\Debug\netstandard2.0\LightSourceProgram.pdb
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.csproj.AssemblyReference.cache
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.AssemblyInfoInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.AssemblyInfo.cs
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.csproj.CoreCompileInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.dll
+E:\04_开发项目\07_标准Dll\Standard\LightSourceProgram\obj\Debug\netstandard2.0\LightSourceProgram.pdb

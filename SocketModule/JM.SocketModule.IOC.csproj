@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+	
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <none Remove="SocketClientOptions.json" />
+	 
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SocketClientOptions.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JM.LogModule.IOC" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2L/AVjLlplODVJ0rQhHH7LiTDKV1iXhbu7PQlAn5bO+f8WbO77J2qqZB2eoxxrIvxTHKq3KLZv3MgrdppbKaQ==",
+  "success": true,
+  "projectFilePath": "E:\\04_开发项目\\07_标准Dll\\Standard\\LightSourceProgram\\LightSourceProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZhangShuai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZhangShuai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

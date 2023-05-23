@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JM.SocketModule.IOC</id>
+    <version>1.0.0</version>
+    <authors>JM.SocketModule.IOC</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="JM.LogModule.IOC" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\04_开发项目\07_标准Dll\Standard\SocketModule\bin\Debug\netstandard2.0\JM.SocketModule.IOC.dll" target="lib\netstandard2.0\JM.SocketModule.IOC.dll" />
+  </files>
+</package>

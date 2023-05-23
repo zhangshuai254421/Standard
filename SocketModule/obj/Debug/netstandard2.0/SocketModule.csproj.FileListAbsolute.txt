@@ -1,0 +1,11 @@
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\bin\Debug\netstandard2.0\SocketClientOptions.json
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\bin\Debug\netstandard2.0\SocketModule.deps.json
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\bin\Debug\netstandard2.0\SocketModule.dll
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\bin\Debug\netstandard2.0\SocketModule.pdb
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.csproj.AssemblyReference.cache
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.GeneratedMSBuildEditorConfig.editorconfig
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.AssemblyInfoInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.AssemblyInfo.cs
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.csproj.CoreCompileInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.dll
+E:\04_开发项目\07_标准Dll\Standard\SocketModule\obj\Debug\netstandard2.0\SocketModule.pdb

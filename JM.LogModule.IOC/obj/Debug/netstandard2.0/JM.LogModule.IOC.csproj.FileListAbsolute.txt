@@ -1,0 +1,11 @@
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\bin\Debug\netstandard2.0\log4net.config
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\bin\Debug\netstandard2.0\JM.LogModule.IOC.deps.json
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\bin\Debug\netstandard2.0\JM.LogModule.IOC.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\bin\Debug\netstandard2.0\JM.LogModule.IOC.pdb
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.csproj.AssemblyReference.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.GeneratedMSBuildEditorConfig.editorconfig
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.AssemblyInfoInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.AssemblyInfo.cs
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.csproj.CoreCompileInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.LogModule.IOC\obj\Debug\netstandard2.0\JM.LogModule.IOC.pdb

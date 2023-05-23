@@ -1,0 +1,22 @@
+{
+  "HKAreaCameraOptionsItem": {
+    "Camera01": {
+      "IP": "192.168.0.1",
+      "SN": "K89056735",
+      "BlUseSoftTrigger": true,
+      "TriggerSourceEnum": "Software",
+      "TriggerModeEnum": "On",
+      "AcquisitionModeEnum": "Continuous"
+    },
+    "Camera02": {
+      "IP": "192.168.0.1",
+      "SN": "0123456",
+      "BlUseSoftTrigger": true,
+      "TriggerSourceEnum": "Software",
+      "TriggerModeEnum": "Off",
+      "AcquisitionModeEnum": "Continuous"
+    }
+  }
+}
+
+

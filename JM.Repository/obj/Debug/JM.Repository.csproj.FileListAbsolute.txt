@@ -1,0 +1,12 @@
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\JM.Repository.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\JM.Repository.pdb
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\JM.Model.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\SqlSugar.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\AutoMapper.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\JM.Model.pdb
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\bin\Debug\AutoMapper.xml
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\obj\Debug\JM.Repository.csproj.AssemblyReference.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\obj\Debug\JM.Repository.csproj.CoreCompileInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\obj\Debug\JM.Repository.csproj.CopyComplete
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\obj\Debug\JM.Repository.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.Repository\obj\Debug\JM.Repository.pdb

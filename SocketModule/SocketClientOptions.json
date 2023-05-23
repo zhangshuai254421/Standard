@@ -1,0 +1,53 @@
+{
+  "SocketClientOptionsItem": {
+    "SocketClient01": {
+      "IpAddress": "127.0.0.1",
+      "IpPort": 502,
+      "SocketClientDataVariable": [
+        {
+          "Name": "工位号",
+          "Start": 0,
+          "Length": 5,
+          "Value": "00201",
+          "Description": "工位号的具体内容",
+          "ValueType": "System.String",
+          "VariableAccessTypeEnum": "Readable"
+        },
+        {
+          "Name": "工位号2",
+          "Start": 5,
+          "Length": 5,
+          "Value": "00201",
+          "Description": "工位号的具体内容",
+          "ValueType": "System.String",
+          "VariableAccessTypeEnum": "Readable"
+        }
+      ]
+    },
+    "SocketClient02": {
+      "IpAddress": "192.168.0.1",
+      "IpPort": 5001,
+      "SocketClientDataVariable": [
+        {
+          "Name": "工位号3",
+          "Start": 0,
+          "Length": 5,
+          "Value": "00201",
+          "Description": "工位号的具体内容",
+          "VariableAccessTypeEnum": "Readable"
+        },
+        {
+          "Name": "工位号4",
+          "Start": 0,
+          "Length": 5,
+          "Value": "00201",
+          "Description": "工位号的具体内容",
+          "VariableAccessTypeEnum": "Readable"
+        }
+      ]
+
+    }
+
+  }
+
+}

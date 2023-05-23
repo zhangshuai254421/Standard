@@ -1,0 +1,11 @@
+
+----------------------application startup--------------------------
+
+ ----------------------application shutdown--------------------------
+
+----------------------application startup--------------------------
+2023-05-05 18:22:27.090 --INFO -- Enum device count:0
+2023-05-05 18:22:27.100 --WARN -- Get PixelFormat failed:80000000
+2023-05-05 18:22:27.125 --WARN -- Get PixelFormat failed:80000000
+
+ ----------------------application shutdown--------------------------

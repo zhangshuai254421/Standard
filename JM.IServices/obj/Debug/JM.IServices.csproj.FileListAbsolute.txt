@@ -1,0 +1,12 @@
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\JM.IServices.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\JM.IServices.pdb
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\JM.Model.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\SqlSugar.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\AutoMapper.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\JM.Model.pdb
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\bin\Debug\AutoMapper.xml
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\obj\Debug\JM.IServices.csproj.AssemblyReference.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\obj\Debug\JM.IServices.csproj.CoreCompileInputs.cache
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\obj\Debug\JM.IServices.csproj.CopyComplete
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\obj\Debug\JM.IServices.dll
+E:\04_开发项目\07_标准Dll\Standard\JM.IServices\obj\Debug\JM.IServices.pdb
